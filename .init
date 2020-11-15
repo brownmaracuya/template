@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir css/
+mkdir assets/
+mkdir assets/{img,icons,fonts}
